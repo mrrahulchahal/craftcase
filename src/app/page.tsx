@@ -27,7 +27,7 @@ export default function Home() {
                 Capture your favorite memories with your own,{' '}
                 <span className='font-semibold'>one-of-one</span> phone case.
                 CraftCase allows you to protect your memories, not just your
-                phone case.
+                Mobile case.
               </p>
 
               <ul className='mt-8 space-y-2 text-left font-medium flex flex-col items-center sm:items-start'>
